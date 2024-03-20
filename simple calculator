@@ -1,0 +1,10 @@
+read NUM1
+read NUM2
+echo addition:
+echo $((NUM1 + NUM2))
+echo substraction:
+echo $((NUM1 - NUM2))
+echo multiplication:
+echo $((NUM1 * NUM2))
+echo division:
+echo $((NUM1 / NUM2))
