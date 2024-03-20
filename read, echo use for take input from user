@@ -1,0 +1,16 @@
+echo What is your name?
+read Name
+
+echo Intake
+read Intake
+
+echo ID
+read ID
+
+echo Section
+read Section
+
+echo Name : $Name
+echo Intake : $Intake
+echo ID : $ID
+echo Section : $Section
